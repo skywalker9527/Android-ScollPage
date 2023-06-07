@@ -1,0 +1,13 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#ffffff" /> <!-- 设置背景颜色，这里使用白色 -->
+    <corners android:radius="8dp" /> <!-- 设置圆角半径，根据需要进行调整 -->
+    <padding
+        android:left="4dp"
+        android:top="4dp"
+        android:right="4dp"
+        android:bottom="4dp" /> <!-- 设置边距，根据需要进行调整 -->
+    <stroke
+        android:width="2dp"
+        android:color="#888888" /> <!-- 设置边框宽度和颜色，这里使用灰色 -->
+    <corners android:radius="8dp" /> <!-- 设置圆角半径，根据需要进行调整 -->
+</shape>
